@@ -11,7 +11,7 @@ The website is designed with **HTML and CSS** and is made to look **futuristic w
 ## 👦 About Me
 
 * Name: **Jitesh Thakur**
-* Class: **7**
+* Class: **8**
 * Country: **India**
 * Dream: **To become an IAS Officer**
 
