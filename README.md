@@ -1,7 +1,7 @@
 # 🌐 Jitesh Thakur – Portfolio Website
 
 Hello! 👋
-My name is **Jitesh Thakur**. I am a **Class 7 student** and I created this portfolio website to share my interests, achievements, and goals.
+My name is **Jitesh Thakur**. I am a **Class 8 student** and I created this portfolio website to share my interests, achievements, and goals.
 
 ## 🚀 About This Website
 
